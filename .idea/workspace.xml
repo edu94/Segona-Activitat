@@ -184,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MachineTest">
+  <component name="RunManager" selected="JUnit.MachineCompositeTest">
     <configuration name="MachineCompositeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Segona Activitat" />
       <option name="PACKAGE_NAME" value="" />
@@ -215,8 +215,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MachineTest" />
         <item itemvalue="JUnit.MachineCompositeTest" />
+        <item itemvalue="JUnit.MachineTest" />
         <item itemvalue="JUnit.MachineCompositeTest.addRepairMachineTest" />
       </list>
     </recent_temporary>
